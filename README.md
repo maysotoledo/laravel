@@ -31,6 +31,16 @@ Instale as dependências do projeto
 composer install
 ```
 
+Instale as dependências do projeto
+```sh
+npm install
+```
+
+Instale as dependências do projeto
+```sh
+npm run build
+```
+
 Gere a key do projeto Laravel
 ```sh
 php artisan key:generate
