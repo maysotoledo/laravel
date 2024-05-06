@@ -1,10 +1,10 @@
 
-# Setup Docker Laravel 11 com PHP 8.3
+# Setup Docker Laravel 11 com PHP + Mysql + phpmyadmin + Redis + Node + nginx
 
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/ThiagolFPereira/setup-docker-laravel-11.git
+git clone https://github.com/maysotoledo/laravel.git
 ```
 ```sh
 cd setup-docker-laravel-11
